@@ -53,7 +53,6 @@ class Solution:
         
         # Method 3: 
         #https://leetcode.com/problems/squares-of-a-sorted-array/discuss/578910/Python%3A-O(N)-Solution
-        m =[abs(s) for s in A]
-        m.sort()
-        l =[w*w for w in m ]
+        l =[w*w for w in A ]
+        l.sort()
         return l
