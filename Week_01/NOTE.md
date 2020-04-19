@@ -1,5 +1,3 @@
-
-
 这周笔记会偏重于描述每道题目的思路和方法总结，数据结构的篇幅会比较少一点
 
 Week1 刷过的题
@@ -20,4 +18,8 @@ Week1 刷过的题
 
 参考资料：
 
+<<<<<<< HEAD
 Redis - Skip List：[跳跃表](http://redisbook.readthedocs.io/en/latest/internal-datastruct/skiplist.html)、[为啥 Redis 使用跳表（Skip List）而不是使用 Red-Black？](http://www.zhihu.com/question/20202931)
+=======
+Redis - Skip List：[跳跃表](http://redisbook.readthedocs.io/en/latest/internal-datastruct/skiplist.html)、[为啥 Redis 使用跳表（Skip List）而不是使用 Red-Black？](
+>>>>>>> 920d4a3e673f422683907fbbd0a4f42f42985047
