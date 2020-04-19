@@ -1,6 +1,48 @@
+#  Linked List 实战题目
+
+- [ ] https://leetcode.com/problems/reverse-linked-list/
+
+- [ ] https://leetcode.com/problems/swap-nodes-in-pairs
+
+- [ ] https://leetcode.com/problems/linked-list-cycle
+
+- [ ] https://leetcode.com/problems/linked-list-cycle-ii
+
+- [ ] https://leetcode.com/problems/reverse-nodes-in-k-group/
+
+  
+
+#  课后作业
+
+- [ ] https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/
+- [ ] https://leetcode-cn.com/problems/rotate-array/
+- [ ] https://leetcode-cn.com/problems/merge-two-sorted-lists/
+- [ ] https://leetcode-cn.com/problems/merge-sorted-array/
+- [x] https://leetcode-cn.com/problems/two-sum/
+- [x] https://leetcode-cn.com/problems/move-zeroes/
+- [ ] https://leetcode-cn.com/problems/plus-one/
 
 
-这周笔记会偏重于描述每道题目的思路和方法总结，数据结构的篇幅会比较少一点
+
+# 每日一题
+
+- [ ] 04/13 https://leetcode-cn.com/problems/design-twitter/
+- [ ] 04/15 https://leetcode-cn.com/problems/01-matrix/
+
+刷题狂魔组
+
+- [x] Day 1 https://leetcode-cn.com/problems/move-zeroes/
+- [x] Day 2 https://leetcode-cn.com/problems/plus-one/
+- [x] Day 3 https://leetcode-cn.com/problems/rotate-array/
+- [x] Day 4 https://leetcode-cn.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/
+- [x] Day 5  https://leetcode-cn.com/problems/squares-of-a-sorted-array/
+- [ ] Additional  https://leetcode-cn.com/problems/split-a-string-in-balanced-strings/
+- [x] Day 6 https://leetcode-cn.com/problems/reverse-only-letters/
+- [x] Day 7 https://leetcode-cn.com/problems/di-yi-ge-zhi-chu-xian-yi-ci-de-zi-fu-lcof/
+
+
+
+
 
 # Week1 刷过的题 - 持续更新中
 
@@ -16,7 +58,6 @@
 |                                                              |          |                                                              |                                                              |            |            |
 |                                                              |          |                                                              |                                                              |            |            |
 
-# 
 # 数据结构
 
 ## 跳表
